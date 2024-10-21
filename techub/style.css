@@ -1,0 +1,38 @@
+/*
+Theme Name: Techub
+Author: Theme_Pure
+Author URI: https://themeforest.net/user/hixstudio
+Description: Techub is a Modern & Professional WP Theme which is perfectly suitable for the Agency, Marketing, Consulting, start-up, IT Solutions, and Services Company related any business website.
+Version: 1.0.0
+Text Domain: techub
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+.rc__post-thumb img {
+	width: 72px;
+	height: 72px;
+	object-fit: contain;
+}
+.postbox__comment.mb-95 {
+	list-style: none;
+}
+.comment  .children{
+	margin-left: 50px;
+}
+.post.post-post.current-item {
+	color: #fff;
+}
+
+
+.portfolio-filter-button button {
+	padding: 10px 10px;
+	background-color: whitesmoke;
+	margin: 0 5px;
+	border-radius: 5px;
+	color: #b616e3;
+}
+
+.portfolio-filter-button .active {
+	color: red;
+}
